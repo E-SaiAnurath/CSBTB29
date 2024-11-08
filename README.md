@@ -25,3 +25,6 @@
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/DecisionTree.ipynb]
 
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/KNN.ipynb]
+
+LAB EXAM 
+[https://github.com/E-SaiAnurath/CSBTB29/blob/main/AiMl_LabExam-5_KNN(K-Nearest%20Neighbors).ipynb]
